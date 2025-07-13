@@ -1,1 +1,1 @@
-# flashcards
+# Web-application using Next.JS and FastAPI
